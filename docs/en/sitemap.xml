@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/learning-docker/en/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href=""
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learning-docker/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learning-docker/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learning-docker/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learning-docker/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learning-docker/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learning-docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learning-docker/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learning-docker/en/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learning-docker/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learning-docker/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learning-docker/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learning-docker/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learning-docker/en/tags/"
+                />
+  </url>
+  
+</urlset>

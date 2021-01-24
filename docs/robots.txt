@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: /learning-docker/sitemap.xml
